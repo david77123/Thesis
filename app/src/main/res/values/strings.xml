@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thesis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_intro_to_your_genes">IntroToYourGenesActivity</string>
+    <string name="IntroToYourGenesText">IntroToYourGenesQuestionnaire</string>
+    <string name="title_activity_intro_to_your_genes_questionnaire">IntroToYourGenesQuestionnaireActivity</string>
+    <string name="title_section1">"1/20"</string>
+    <string name="title_section2">"2/20"</string>
+    <string name="title_section3">"3/20"</string>
+    <string name="title_section4">"4/20"</string>
+    <string name="title_section5">"5/20"</string>
+    <string name="title_section6">"6/20"</string>
+    <string name="title_section7">"7/20"</string>
+    <string name="title_section8">"8/20"</string>
+    <string name="title_section9">"9/20"</string>
+    <string name="title_section10">"10/20"</string>
+    <string name="title_section11">"11/20"</string>
+    <string name="title_section12">"12/20"</string>
+    <string name="title_section13">"13/20"</string>
+    <string name="title_section14">"14/20"</string>
+    <string name="title_section15">"15/20"</string>
+    <string name="title_section16">"16/20"</string>
+    <string name="title_section17">"17/20"</string>
+    <string name="title_section18">"18/20"</string>
+    <string name="title_section19">"19/20"</string>
+    <string name="title_section20">"20/20"</string>
+    <string name="title_activity_questionnaire_results">QuestionnaireResults</string>
+    <string name="title_activity_questionnaire">Questionnaire</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="IntroToYourGenesButton">IntroToYourGenes</string>
+    <string name="title_activity_punnett_square_intro">PunnettSquareIntro</string>
+    <string name="title_activity_punnett_square">Punnett Square</string>
+    <string name="questionnaire1text1">Almond shaped eyes</string>
+    <string name="questionnaire1text2">Round shaped eyes</string>
+
+</resources>
